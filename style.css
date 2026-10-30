@@ -17,7 +17,22 @@ header {
 .banner{
     width:100%;
 }
-
+.promo{
+    display: flex;
+    gap: 30px;
+}
+.promo1{
+    height:30%;
+    width: 30%;
+}
+.promo2{
+    height:30%;
+    width: 30%;
+}
+.promo3{
+    height:30%;
+    width: 30%;
+}
 input {
     flex: 1;
 }
